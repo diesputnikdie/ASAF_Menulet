@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ShowAllFiles Menulet' target in the 'ShowAllFiles Menulet' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
