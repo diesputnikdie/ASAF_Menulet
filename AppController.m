@@ -30,7 +30,7 @@
     //Tells the NSStatusItem what menu to load
     [statusItem setMenu:statusMenu];
     //Sets the tooptip for our item
-    [statusItem setToolTip:@"My Custom Menu Item"];
+    [statusItem setToolTip:@"Revealr"];
     //Enables highlighting
     [statusItem setHighlightMode:YES];
 }
