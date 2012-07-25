@@ -16,6 +16,8 @@
 		E8DBAEF015AE3E0300B899C9 /* AppController.m in Sources */ = {isa = PBXBuildFile; fileRef = E8DBAEEF15AE3E0300B899C9 /* AppController.m */; };
 		E8FECA1D15BDC64700134EB0 /* showallfilesNO.png in Resources */ = {isa = PBXBuildFile; fileRef = E8FECA1A15BDC5C800134EB0 /* showallfilesNO.png */; };
 		E8FECA1E15BDC64A00134EB0 /* showallfilesYES.png in Resources */ = {isa = PBXBuildFile; fileRef = E8FECA1B15BDC5C800134EB0 /* showallfilesYES.png */; };
+		E8FECA7215C0ABD700134EB0 /* hideScript.scpt in Resources */ = {isa = PBXBuildFile; fileRef = E8FECA1915BDC5C800134EB0 /* hideScript.scpt */; };
+		E8FECA7415C0ABDA00134EB0 /* showScript.scpt in Resources */ = {isa = PBXBuildFile; fileRef = E8FECA1C15BDC5C800134EB0 /* showScript.scpt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -173,6 +175,8 @@
 				E8DBAEE815AE3D6700B899C9 /* MainMenu.xib in Resources */,
 				E8FECA1D15BDC64700134EB0 /* showallfilesNO.png in Resources */,
 				E8FECA1E15BDC64A00134EB0 /* showallfilesYES.png in Resources */,
+				E8FECA7215C0ABD700134EB0 /* hideScript.scpt in Resources */,
+				E8FECA7415C0ABDA00134EB0 /* showScript.scpt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
