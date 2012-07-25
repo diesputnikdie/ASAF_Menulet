@@ -14,10 +14,8 @@
 		E8DBAEE515AE3D6600B899C9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E8DBAEE415AE3D6600B899C9 /* AppDelegate.m */; };
 		E8DBAEE815AE3D6700B899C9 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = E8DBAEE615AE3D6700B899C9 /* MainMenu.xib */; };
 		E8DBAEF015AE3E0300B899C9 /* AppController.m in Sources */ = {isa = PBXBuildFile; fileRef = E8DBAEEF15AE3E0300B899C9 /* AppController.m */; };
-		E8DBAEF315AE49CA00B899C9 /* showallfilesNO.png in Resources */ = {isa = PBXBuildFile; fileRef = E8DBAEF115AE49CA00B899C9 /* showallfilesNO.png */; };
-		E8DBAEF415AE49CA00B899C9 /* showallfilesYES.png in Resources */ = {isa = PBXBuildFile; fileRef = E8DBAEF215AE49CA00B899C9 /* showallfilesYES.png */; };
-		E8DBAEFD15AE559700B899C9 /* hideScript.scpt in Resources */ = {isa = PBXBuildFile; fileRef = E8DBAEF915AE50A000B899C9 /* hideScript.scpt */; };
-		E8DBAEFE15AE559900B899C9 /* showScript.scpt in Resources */ = {isa = PBXBuildFile; fileRef = E8DBAEFA15AE50A000B899C9 /* showScript.scpt */; };
+		E8FECA1D15BDC64700134EB0 /* showallfilesNO.png in Resources */ = {isa = PBXBuildFile; fileRef = E8FECA1A15BDC5C800134EB0 /* showallfilesNO.png */; };
+		E8FECA1E15BDC64A00134EB0 /* showallfilesYES.png in Resources */ = {isa = PBXBuildFile; fileRef = E8FECA1B15BDC5C800134EB0 /* showallfilesYES.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,10 +34,10 @@
 		E8DBAEE715AE3D6700B899C9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		E8DBAEEE15AE3E0300B899C9 /* AppController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppController.h; sourceTree = "<group>"; };
 		E8DBAEEF15AE3E0300B899C9 /* AppController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppController.m; sourceTree = "<group>"; };
-		E8DBAEF115AE49CA00B899C9 /* showallfilesNO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = showallfilesNO.png; path = /Users/jakebrooka/Documents/../Desktop/showallfilesNO.png; sourceTree = "<absolute>"; };
-		E8DBAEF215AE49CA00B899C9 /* showallfilesYES.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = showallfilesYES.png; path = /Users/jakebrooka/Documents/../Desktop/showallfilesYES.png; sourceTree = "<absolute>"; };
-		E8DBAEF915AE50A000B899C9 /* hideScript.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; name = hideScript.scpt; path = ../../Desktop/hideScript.scpt; sourceTree = "<group>"; };
-		E8DBAEFA15AE50A000B899C9 /* showScript.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; name = showScript.scpt; path = ../../Desktop/showScript.scpt; sourceTree = "<group>"; };
+		E8FECA1915BDC5C800134EB0 /* hideScript.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; path = hideScript.scpt; sourceTree = "<group>"; };
+		E8FECA1A15BDC5C800134EB0 /* showallfilesNO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = showallfilesNO.png; sourceTree = "<group>"; };
+		E8FECA1B15BDC5C800134EB0 /* showallfilesYES.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = showallfilesYES.png; sourceTree = "<group>"; };
+		E8FECA1C15BDC5C800134EB0 /* showScript.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; path = showScript.scpt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,10 +55,10 @@
 		E8DBAEC215AE3D6600B899C9 = {
 			isa = PBXGroup;
 			children = (
-				E8DBAEF115AE49CA00B899C9 /* showallfilesNO.png */,
-				E8DBAEF215AE49CA00B899C9 /* showallfilesYES.png */,
-				E8DBAEF915AE50A000B899C9 /* hideScript.scpt */,
-				E8DBAEFA15AE50A000B899C9 /* showScript.scpt */,
+				E8FECA1915BDC5C800134EB0 /* hideScript.scpt */,
+				E8FECA1A15BDC5C800134EB0 /* showallfilesNO.png */,
+				E8FECA1B15BDC5C800134EB0 /* showallfilesYES.png */,
+				E8FECA1C15BDC5C800134EB0 /* showScript.scpt */,
 				E8DBAEEE15AE3E0300B899C9 /* AppController.h */,
 				E8DBAEEF15AE3E0300B899C9 /* AppController.m */,
 				E8DBAED715AE3D6600B899C9 /* ShowAllFiles Menulet */,
@@ -173,10 +171,8 @@
 				E8DBAEDC15AE3D6600B899C9 /* InfoPlist.strings in Resources */,
 				E8DBAEE215AE3D6600B899C9 /* Credits.rtf in Resources */,
 				E8DBAEE815AE3D6700B899C9 /* MainMenu.xib in Resources */,
-				E8DBAEFD15AE559700B899C9 /* hideScript.scpt in Resources */,
-				E8DBAEFE15AE559900B899C9 /* showScript.scpt in Resources */,
-				E8DBAEF315AE49CA00B899C9 /* showallfilesNO.png in Resources */,
-				E8DBAEF415AE49CA00B899C9 /* showallfilesYES.png in Resources */,
+				E8FECA1D15BDC64700134EB0 /* showallfilesNO.png in Resources */,
+				E8FECA1E15BDC64A00134EB0 /* showallfilesYES.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -311,6 +307,7 @@
 				E8DBAEED15AE3D6700B899C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
