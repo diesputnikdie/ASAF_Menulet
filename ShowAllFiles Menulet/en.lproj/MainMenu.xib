@@ -37,7 +37,7 @@
 				<array class="NSMutableArray" key="NSMenuItems">
 					<object class="NSMenuItem" id="4879611">
 						<reference key="NSMenu" ref="354531883"/>
-						<string key="NSTitle">Show Hidden</string>
+						<string key="NSTitle">Reveal System Files</string>
 						<string key="NSKeyEquiv"/>
 						<int key="NSMnemonicLoc">2147483647</int>
 						<object class="NSCustomResource" key="NSOnImage" id="809060882">
@@ -51,7 +51,7 @@
 					</object>
 					<object class="NSMenuItem" id="1065133302">
 						<reference key="NSMenu" ref="354531883"/>
-						<string key="NSTitle">Keep Hidden</string>
+						<string key="NSTitle">Hide System Files</string>
 						<string key="NSKeyEquiv"/>
 						<int key="NSMnemonicLoc">2147483647</int>
 						<reference key="NSOnImage" ref="809060882"/>
@@ -59,7 +59,7 @@
 					</object>
 					<object class="NSMenuItem" id="234256517">
 						<reference key="NSMenu" ref="354531883"/>
-						<string key="NSTitle">Quit</string>
+						<string key="NSTitle">Quit Revealr</string>
 						<string key="NSKeyEquiv"/>
 						<int key="NSMnemonicLoc">2147483647</int>
 						<reference key="NSOnImage" ref="809060882"/>
