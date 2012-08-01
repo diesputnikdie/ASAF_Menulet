@@ -20,8 +20,8 @@
     NSBundle *bundle = [NSBundle mainBundle];
     
     //Allocates and loads the images into the application which will be used for our NSStatusItem
-    statusImage = [[NSImage alloc] initWithContentsOfFile:[bundle pathForResource:@"showallfilesYES" ofType:@"png"]];
-    statusHighlightImage = [[NSImage alloc] initWithContentsOfFile:[bundle pathForResource:@"showallfilesNO" ofType:@"png"]];
+    statusImage = [[NSImage alloc] initWithContentsOfFile:[bundle pathForResource:@"menuletOff" ofType:@"png"]];
+    statusHighlightImage = [[NSImage alloc] initWithContentsOfFile:[bundle pathForResource:@"menuletOn" ofType:@"png"]];
     
     //Sets the images in our NSStatusItem
     [statusItem setImage:statusImage];
