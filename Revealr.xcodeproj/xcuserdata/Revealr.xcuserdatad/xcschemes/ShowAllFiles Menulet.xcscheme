@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E8DBAECC15AE3D6600B899C9"
                BuildableName = "ShowAllFiles Menulet.app"
-               BlueprintName = "Revealr"
-               ReferencedContainer = "container:Revealr.xcodeproj">
+               BlueprintName = "ShowAllFiles Menulet"
+               ReferencedContainer = "container:ShowAllFiles Menulet.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E8DBAECC15AE3D6600B899C9"
             BuildableName = "ShowAllFiles Menulet.app"
-            BlueprintName = "Revealr"
-            ReferencedContainer = "container:Revealr.xcodeproj">
+            BlueprintName = "ShowAllFiles Menulet"
+            ReferencedContainer = "container:ShowAllFiles Menulet.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -53,8 +53,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E8DBAECC15AE3D6600B899C9"
             BuildableName = "ShowAllFiles Menulet.app"
-            BlueprintName = "Revealr"
-            ReferencedContainer = "container:Revealr.xcodeproj">
+            BlueprintName = "ShowAllFiles Menulet"
+            ReferencedContainer = "container:ShowAllFiles Menulet.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,8 +71,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E8DBAECC15AE3D6600B899C9"
             BuildableName = "ShowAllFiles Menulet.app"
-            BlueprintName = "Revealr"
-            ReferencedContainer = "container:Revealr.xcodeproj">
+            BlueprintName = "ShowAllFiles Menulet"
+            ReferencedContainer = "container:ShowAllFiles Menulet.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

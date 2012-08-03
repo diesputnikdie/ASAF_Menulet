@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E83D5BA515CC6243003C205C /* revealriconbig2.png in Resources */ = {isa = PBXBuildFile; fileRef = E83D5BA415CC6243003C205C /* revealriconbig2.png */; };
 		E880F06B15C9F79C00E51868 /* menuletOff.png in Resources */ = {isa = PBXBuildFile; fileRef = E880F06915C9F79C00E51868 /* menuletOff.png */; };
 		E880F06C15C9F79C00E51868 /* menuletOn.png in Resources */ = {isa = PBXBuildFile; fileRef = E880F06A15C9F79C00E51868 /* menuletOn.png */; };
 		E8DBAED215AE3D6600B899C9 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E8DBAED115AE3D6600B899C9 /* Cocoa.framework */; };
@@ -23,17 +24,18 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E83D5BA415CC6243003C205C /* revealriconbig2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = revealriconbig2.png; sourceTree = "<group>"; };
 		E880F06915C9F79C00E51868 /* menuletOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menuletOff.png; sourceTree = "<group>"; };
 		E880F06A15C9F79C00E51868 /* menuletOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menuletOn.png; sourceTree = "<group>"; };
-		E8DBAECD15AE3D6600B899C9 /* ShowAllFiles Menulet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ShowAllFiles Menulet.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E8DBAECD15AE3D6600B899C9 /* Revealr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Revealr.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8DBAED115AE3D6600B899C9 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		E8DBAED415AE3D6600B899C9 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		E8DBAED515AE3D6600B899C9 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		E8DBAED615AE3D6600B899C9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		E8DBAED915AE3D6600B899C9 /* ShowAllFiles Menulet-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ShowAllFiles Menulet-Info.plist"; sourceTree = "<group>"; };
+		E8DBAED915AE3D6600B899C9 /* Revealr-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Revealr-Info.plist"; sourceTree = "<group>"; };
 		E8DBAEDB15AE3D6600B899C9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E8DBAEDD15AE3D6600B899C9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E8DBAEDF15AE3D6600B899C9 /* ShowAllFiles Menulet-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ShowAllFiles Menulet-Prefix.pch"; sourceTree = "<group>"; };
+		E8DBAEDF15AE3D6600B899C9 /* Revealr-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Revealr-Prefix.pch"; sourceTree = "<group>"; };
 		E8DBAEE115AE3D6600B899C9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
 		E8DBAEE315AE3D6600B899C9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E8DBAEE415AE3D6600B899C9 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 		E8DBAEC215AE3D6600B899C9 = {
 			isa = PBXGroup;
 			children = (
+				E83D5BA415CC6243003C205C /* revealriconbig2.png */,
 				E880F06915C9F79C00E51868 /* menuletOff.png */,
 				E880F06A15C9F79C00E51868 /* menuletOn.png */,
 				E8FECA1915BDC5C800134EB0 /* hideScript.scpt */,
@@ -78,7 +81,7 @@
 		E8DBAECE15AE3D6600B899C9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E8DBAECD15AE3D6600B899C9 /* ShowAllFiles Menulet.app */,
+				E8DBAECD15AE3D6600B899C9 /* Revealr.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -116,10 +119,10 @@
 		E8DBAED815AE3D6600B899C9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				E8DBAED915AE3D6600B899C9 /* ShowAllFiles Menulet-Info.plist */,
+				E8DBAED915AE3D6600B899C9 /* Revealr-Info.plist */,
 				E8DBAEDA15AE3D6600B899C9 /* InfoPlist.strings */,
 				E8DBAEDD15AE3D6600B899C9 /* main.m */,
-				E8DBAEDF15AE3D6600B899C9 /* ShowAllFiles Menulet-Prefix.pch */,
+				E8DBAEDF15AE3D6600B899C9 /* Revealr-Prefix.pch */,
 				E8DBAEE015AE3D6600B899C9 /* Credits.rtf */,
 			);
 			name = "Supporting Files";
@@ -128,9 +131,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E8DBAECC15AE3D6600B899C9 /* ShowAllFiles Menulet */ = {
+		E8DBAECC15AE3D6600B899C9 /* Revealr */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E8DBAEEB15AE3D6700B899C9 /* Build configuration list for PBXNativeTarget "ShowAllFiles Menulet" */;
+			buildConfigurationList = E8DBAEEB15AE3D6700B899C9 /* Build configuration list for PBXNativeTarget "Revealr" */;
 			buildPhases = (
 				E8DBAEC915AE3D6600B899C9 /* Sources */,
 				E8DBAECA15AE3D6600B899C9 /* Frameworks */,
@@ -140,9 +143,9 @@
 			);
 			dependencies = (
 			);
-			name = "ShowAllFiles Menulet";
+			name = Revealr;
 			productName = "ShowAllFiles Menulet";
-			productReference = E8DBAECD15AE3D6600B899C9 /* ShowAllFiles Menulet.app */;
+			productReference = E8DBAECD15AE3D6600B899C9 /* Revealr.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -151,10 +154,10 @@
 		E8DBAEC415AE3D6600B899C9 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0430;
+				LastUpgradeCheck = 0440;
 				ORGANIZATIONNAME = "Jake Brooks";
 			};
-			buildConfigurationList = E8DBAEC715AE3D6600B899C9 /* Build configuration list for PBXProject "ShowAllFiles Menulet" */;
+			buildConfigurationList = E8DBAEC715AE3D6600B899C9 /* Build configuration list for PBXProject "Revealr" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -166,7 +169,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E8DBAECC15AE3D6600B899C9 /* ShowAllFiles Menulet */,
+				E8DBAECC15AE3D6600B899C9 /* Revealr */,
 			);
 		};
 /* End PBXProject section */
@@ -185,6 +188,7 @@
 				E8FECA7415C0ABDA00134EB0 /* showScript.scpt in Resources */,
 				E880F06B15C9F79C00E51868 /* menuletOff.png in Resources */,
 				E880F06C15C9F79C00E51868 /* menuletOn.png in Resources */,
+				E83D5BA515CC6243003C205C /* revealriconbig2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,10 +285,11 @@
 		E8DBAEEC15AE3D6700B899C9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "ShowAllFiles Menulet/ShowAllFiles Menulet-Prefix.pch";
-				INFOPLIST_FILE = "ShowAllFiles Menulet/ShowAllFiles Menulet-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "ShowAllFiles Menulet/Revealr-Prefix.pch";
+				INFOPLIST_FILE = "ShowAllFiles Menulet/Revealr-Info.plist";
+				PRODUCT_NAME = Revealr;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -292,10 +297,11 @@
 		E8DBAEED15AE3D6700B899C9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "ShowAllFiles Menulet/ShowAllFiles Menulet-Prefix.pch";
-				INFOPLIST_FILE = "ShowAllFiles Menulet/ShowAllFiles Menulet-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "ShowAllFiles Menulet/Revealr-Prefix.pch";
+				INFOPLIST_FILE = "ShowAllFiles Menulet/Revealr-Info.plist";
+				PRODUCT_NAME = Revealr;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -303,7 +309,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E8DBAEC715AE3D6600B899C9 /* Build configuration list for PBXProject "ShowAllFiles Menulet" */ = {
+		E8DBAEC715AE3D6600B899C9 /* Build configuration list for PBXProject "Revealr" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E8DBAEE915AE3D6700B899C9 /* Debug */,
@@ -312,7 +318,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E8DBAEEB15AE3D6700B899C9 /* Build configuration list for PBXNativeTarget "ShowAllFiles Menulet" */ = {
+		E8DBAEEB15AE3D6700B899C9 /* Build configuration list for PBXNativeTarget "Revealr" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E8DBAEEC15AE3D6700B899C9 /* Debug */,
