@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Revealr.xcodeproj">
+      location = "self:Revealer.xcodeproj">
    </FileRef>
 </Workspace>

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E8DBAECC15AE3D6600B899C9"
-               BuildableName = "ShowAllFiles Menulet.app"
-               BlueprintName = "Revealr"
-               ReferencedContainer = "container:Revealr.xcodeproj">
+               BuildableName = "Revealr.app"
+               BlueprintName = "Revealer"
+               ReferencedContainer = "container:Revealer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E8DBAECC15AE3D6600B899C9"
-            BuildableName = "ShowAllFiles Menulet.app"
-            BlueprintName = "Revealr"
-            ReferencedContainer = "container:Revealr.xcodeproj">
+            BuildableName = "Revealr.app"
+            BlueprintName = "Revealer"
+            ReferencedContainer = "container:Revealer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,9 +52,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E8DBAECC15AE3D6600B899C9"
-            BuildableName = "ShowAllFiles Menulet.app"
-            BlueprintName = "Revealr"
-            ReferencedContainer = "container:Revealr.xcodeproj">
+            BuildableName = "Revealr.app"
+            BlueprintName = "Revealer"
+            ReferencedContainer = "container:Revealer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -70,9 +70,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E8DBAECC15AE3D6600B899C9"
-            BuildableName = "ShowAllFiles Menulet.app"
-            BlueprintName = "Revealr"
-            ReferencedContainer = "container:Revealr.xcodeproj">
+            BuildableName = "Revealr.app"
+            BlueprintName = "Revealer"
+            ReferencedContainer = "container:Revealer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
