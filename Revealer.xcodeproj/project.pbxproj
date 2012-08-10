@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E83D5BA515CC6243003C205C /* revealriconbig2.png in Resources */ = {isa = PBXBuildFile; fileRef = E83D5BA415CC6243003C205C /* revealriconbig2.png */; };
 		E880F06B15C9F79C00E51868 /* menuletOff.png in Resources */ = {isa = PBXBuildFile; fileRef = E880F06915C9F79C00E51868 /* menuletOff.png */; };
 		E880F06C15C9F79C00E51868 /* menuletOn.png in Resources */ = {isa = PBXBuildFile; fileRef = E880F06A15C9F79C00E51868 /* menuletOn.png */; };
+		E8CBCADD15D5A0F1005D2E69 /* revealerIcon.icns in Resources */ = {isa = PBXBuildFile; fileRef = E8CBCADC15D5A0F1005D2E69 /* revealerIcon.icns */; };
 		E8DBAED215AE3D6600B899C9 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E8DBAED115AE3D6600B899C9 /* Cocoa.framework */; };
 		E8DBAEDC15AE3D6600B899C9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E8DBAEDA15AE3D6600B899C9 /* InfoPlist.strings */; };
 		E8DBAEDE15AE3D6600B899C9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E8DBAEDD15AE3D6600B899C9 /* main.m */; };
@@ -24,9 +24,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E83D5BA415CC6243003C205C /* revealriconbig2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = revealriconbig2.png; sourceTree = "<group>"; };
 		E880F06915C9F79C00E51868 /* menuletOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menuletOff.png; sourceTree = "<group>"; };
 		E880F06A15C9F79C00E51868 /* menuletOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menuletOn.png; sourceTree = "<group>"; };
+		E8CBCADC15D5A0F1005D2E69 /* revealerIcon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = revealerIcon.icns; sourceTree = "<group>"; };
 		E8DBAECD15AE3D6600B899C9 /* Revealer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Revealer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8DBAED115AE3D6600B899C9 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		E8DBAED415AE3D6600B899C9 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
@@ -63,7 +63,7 @@
 		E8DBAEC215AE3D6600B899C9 = {
 			isa = PBXGroup;
 			children = (
-				E83D5BA415CC6243003C205C /* revealriconbig2.png */,
+				E8CBCADC15D5A0F1005D2E69 /* revealerIcon.icns */,
 				E880F06915C9F79C00E51868 /* menuletOff.png */,
 				E880F06A15C9F79C00E51868 /* menuletOn.png */,
 				E8FECA1915BDC5C800134EB0 /* hideScript.scpt */,
@@ -188,7 +188,7 @@
 				E8FECA7415C0ABDA00134EB0 /* showScript.scpt in Resources */,
 				E880F06B15C9F79C00E51868 /* menuletOff.png in Resources */,
 				E880F06C15C9F79C00E51868 /* menuletOn.png in Resources */,
-				E83D5BA515CC6243003C205C /* revealriconbig2.png in Resources */,
+				E8CBCADD15D5A0F1005D2E69 /* revealerIcon.icns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
