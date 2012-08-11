@@ -17,8 +17,6 @@
 		E8DBAEE515AE3D6600B899C9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E8DBAEE415AE3D6600B899C9 /* AppDelegate.m */; };
 		E8DBAEE815AE3D6700B899C9 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = E8DBAEE615AE3D6700B899C9 /* MainMenu.xib */; };
 		E8DBAEF015AE3E0300B899C9 /* AppController.m in Sources */ = {isa = PBXBuildFile; fileRef = E8DBAEEF15AE3E0300B899C9 /* AppController.m */; };
-		E8FECA1D15BDC64700134EB0 /* showallfilesNO.png in Resources */ = {isa = PBXBuildFile; fileRef = E8FECA1A15BDC5C800134EB0 /* showallfilesNO.png */; };
-		E8FECA1E15BDC64A00134EB0 /* showallfilesYES.png in Resources */ = {isa = PBXBuildFile; fileRef = E8FECA1B15BDC5C800134EB0 /* showallfilesYES.png */; };
 		E8FECA7215C0ABD700134EB0 /* hideScript.scpt in Resources */ = {isa = PBXBuildFile; fileRef = E8FECA1915BDC5C800134EB0 /* hideScript.scpt */; };
 		E8FECA7415C0ABDA00134EB0 /* showScript.scpt in Resources */ = {isa = PBXBuildFile; fileRef = E8FECA1C15BDC5C800134EB0 /* showScript.scpt */; };
 /* End PBXBuildFile section */
@@ -43,8 +41,6 @@
 		E8DBAEEE15AE3E0300B899C9 /* AppController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppController.h; sourceTree = "<group>"; };
 		E8DBAEEF15AE3E0300B899C9 /* AppController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppController.m; sourceTree = "<group>"; };
 		E8FECA1915BDC5C800134EB0 /* hideScript.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; path = hideScript.scpt; sourceTree = "<group>"; };
-		E8FECA1A15BDC5C800134EB0 /* showallfilesNO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = showallfilesNO.png; sourceTree = "<group>"; };
-		E8FECA1B15BDC5C800134EB0 /* showallfilesYES.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = showallfilesYES.png; sourceTree = "<group>"; };
 		E8FECA1C15BDC5C800134EB0 /* showScript.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; path = showScript.scpt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -67,8 +63,6 @@
 				E880F06915C9F79C00E51868 /* menuletOff.png */,
 				E880F06A15C9F79C00E51868 /* menuletOn.png */,
 				E8FECA1915BDC5C800134EB0 /* hideScript.scpt */,
-				E8FECA1A15BDC5C800134EB0 /* showallfilesNO.png */,
-				E8FECA1B15BDC5C800134EB0 /* showallfilesYES.png */,
 				E8FECA1C15BDC5C800134EB0 /* showScript.scpt */,
 				E8DBAEEE15AE3E0300B899C9 /* AppController.h */,
 				E8DBAEEF15AE3E0300B899C9 /* AppController.m */,
@@ -182,8 +176,6 @@
 				E8DBAEDC15AE3D6600B899C9 /* InfoPlist.strings in Resources */,
 				E8DBAEE215AE3D6600B899C9 /* Credits.rtf in Resources */,
 				E8DBAEE815AE3D6700B899C9 /* MainMenu.xib in Resources */,
-				E8FECA1D15BDC64700134EB0 /* showallfilesNO.png in Resources */,
-				E8FECA1E15BDC64A00134EB0 /* showallfilesYES.png in Resources */,
 				E8FECA7215C0ABD700134EB0 /* hideScript.scpt in Resources */,
 				E8FECA7415C0ABDA00134EB0 /* showScript.scpt in Resources */,
 				E880F06B15C9F79C00E51868 /* menuletOff.png in Resources */,
